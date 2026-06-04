@@ -1,0 +1,16 @@
+"/api/admin/upgrade-containers
+"/api/admin/users
+"/api/auth/login
+"/api/auth/logout
+"/api/auth/me
+"/api/config
+"/api/dev/clear-cache
+"/api/dev/clear-cache/restore
+"/api/dev/restart
+"/api/dev/start
+"/api/dev/status
+"/api/dev/stop
+"/api/git/commit
+"/api/git/log
+"/api/git/status
+"/api/usage/me
